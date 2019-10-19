@@ -1,4 +1,3 @@
 # भगवद्गीता 
 
-## प्रथमोध्यायः 
-## द्वितीयोध्यायः
+Source for मूल : https://sanskritdocuments.org/doc_giitaa/bhagvadnew.html?lang=sa
